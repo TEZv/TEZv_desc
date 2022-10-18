@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TEZv
-- 👀 I’m interested in Q/A Testing and Q/A Engineering, Full-Stack.
+- 👋 Hi, I’m Oksana Kolisnyk (or just @TEZv).
+- 👀 I’m interested in Q/A Testing, Q/A Engineering and Full-Stack.
 - 🌱 I’m currently learning Front-End basics.
 - 💞️ I’m looking to collaborate on the IT-Enterprise with professionals.
 - 📫 How to reach me: zazera777@gmail.com.
