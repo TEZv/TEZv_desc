@@ -6,7 +6,6 @@
 - `E-mail:` zazera777@gmail.com.
 - `LinkedIn:` https://www.linkedin.com/in/oksana-kolisnyk-0b9632247/.
 - `Twitter:` https://twitter.com/OksanaKolisnyk/.
-- 
 
 <!---
 TEZv/TEZv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
