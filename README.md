@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Front-End basics.
 - 💞️ I’m looking to collaborate on the IT-Enterprise with professionals.
 - 📫 How to reach me:
-- `E-mail: zazera777@gmail.com`.
-- `LinkedIn: https://www.linkedin.com/in/oksana-kolisnyk-0b9632247/`.
-- `Twitter: https://twitter.com/OksanaKolisnyk`.
+- `E-mail:` zazera777@gmail.com.
+- `LinkedIn:` https://www.linkedin.com/in/oksana-kolisnyk-0b9632247/.
+- `Twitter:` https://twitter.com/OksanaKolisnyk/.
 - 
 
 <!---
